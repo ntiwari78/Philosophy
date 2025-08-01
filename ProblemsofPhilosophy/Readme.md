@@ -505,3 +505,97 @@ Gaunilo’s objection—while highlighting possible logical pitfalls—does not,
 1. Anselm, *Proslogion* (Latin 1077–78).
 2. Gaunilo, *In Behalf of the Fool* (c. 1078).
 3. Deane, S. N. (Trans.), *St. Anselm: Basic Writings*, Open Access (CCEL).
+
+# Lecture 2 · Module 1 — The Existence of God
+
+## 1 · Setting the Scene
+
+* **Location:** MIT’s Stata Center (Bldg 32), home of the *Department of Linguistics & Philosophy*.
+* **Weather:** “Gorgeous, sunny day” (Boston).
+
+---
+
+## 2 · Global Religious Landscape (≈ 2015)
+
+| Major Tradition  | Share of World Population | Geographic Concentration                                   |
+| ---------------- | ------------------------- | ---------------------------------------------------------- |
+| **Christianity** | \~31 %                    | Americas, Europe, sub-Saharan Africa                       |
+| **Islam**        | \~24 %                    | North Africa, Middle East, Western/Central Asia, Indonesia |
+| **Hinduism**     | \~15 %                    | India & Nepal                                              |
+| **Buddhism**     | \~7 %                     | Mainland Southeast Asia, Mongolia, Sri Lanka               |
+| **Judaism**      | \~0.2 %                   | Israel & diaspora centres                                  |
+| **Unaffiliated** | \~16 %                    | China, Japan, Czech Rep., Sweden, U.K., Netherlands        |
+
+> Muslims are the *fastest-growing* group and are projected to reach parity with Christians later this century.
+> *(Pew Research Center, 2015)*
+
+---
+
+## 3 · Belief in the United States (2017 Pew Survey, n ≈ 5,000)
+
+| Statement                                     | % Agree (All Adults) |
+| --------------------------------------------- | -------------------- |
+| “I believe in **God** or a **higher power**”  | **80 %**             |
+| “…in **God as described in the Bible**”       | **56 %**             |
+| **Agnostics** who still affirm a higher power | 62 %                 |
+| **Atheists** who affirm a higher power        | 18 %                 |
+
+---
+
+## 4 · Religion ≠ Theism
+
+* **Buddhism:** generally *non-theistic*—no creator deity.
+* **Polytheistic traditions:** multiple gods (e.g., Hindu deva, Ancient Greek pantheon).
+
+---
+
+## 5 · What *Is* “God”?
+
+| Issue                   | Quick Observation                                                                                   |
+| ----------------------- | --------------------------------------------------------------------------------------------------- |
+| **Artistic depictions** | Michelangelo’s *Creation of Adam* shows a bearded, white, older male—metaphorical, not literal.     |
+| **Gendered language**   | Catholic Catechism: *“God is pure spirit… He is neither man nor woman.”*                            |
+| **Race & nationality**  | E. M. Delafield’s joke: “Most Englishmen are convinced that God is an Englishman educated at Eton.” |
+| **Temporality**         | Is God *inside* time (very old) or *outside* time (atemporal)? Philosophers disagree.               |
+
+---
+
+## 6 · Classic Divine Attributes (per U.S. Christians)
+
+> 75 % affirm that God is:
+>
+> * **All-loving** (*omnibenevolent*)
+> * **All-knowing** (*omniscient*)
+> * **All-powerful** (*omnipotent*)
+
+These “*omni-properties*” are central to the **Ontological Argument**, which the next video explores.
+
+---
+
+## 7 · Up Next
+
+1. **Ontological Argument** (Anselm)
+2. **Cosmological / Design Arguments** (a different route to God)
+3. **Problem of Evil** (an argument *against* God’s existence)
+
+Stay tuned!
+
+---
+
+## References
+
+| Topic / Source                        | Link                                                                                                                                                                                                                   |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pew 2015 World Religion Report        | [https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/](https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/)                                                   |
+| Pew 2017 U.S. Belief Survey           | [https://www.pewresearch.org/religion/2018/04/25/when-americans-say-they-believe-in-god-what-do-they-mean/](https://www.pewresearch.org/religion/2018/04/25/when-americans-say-they-believe-in-god-what-do-they-mean/) |
+| *Creation of Adam* (Michelangelo)     | [https://en.wikipedia.org/wiki/The\_Creation\_of\_Adam](https://en.wikipedia.org/wiki/The_Creation_of_Adam)                                                                                                            |
+| Catechism of the Catholic Church §239 | [http://www.vatican.va/archive/ENG0015/\_P19.HTM](http://www.vatican.va/archive/ENG0015/_P19.HTM)                                                                                                                      |
+| Omnipotence                           | [https://en.wikipedia.org/wiki/Omnipotence](https://en.wikipedia.org/wiki/Omnipotence)                                                                                                                                 |
+| Omniscience                           | [https://en.wikipedia.org/wiki/Omniscience](https://en.wikipedia.org/wiki/Omniscience)                                                                                                                                 |
+| Omnibenevolence                       | [https://en.wikipedia.org/wiki/Omnibenevolence](https://en.wikipedia.org/wiki/Omnibenevolence)                                                                                                                         |
+| Eton College                          | [https://en.wikipedia.org/wiki/Eton\_College](https://en.wikipedia.org/wiki/Eton_College)                                                                                                                              |
+| E. M. Delafield                       | [https://en.wikipedia.org/wiki/E.\_M.\_Delafield](https://en.wikipedia.org/wiki/E._M._Delafield)                                                                                                                       |
+| Buddhism & God                        | [https://plato.stanford.edu/entries/belief-god/#Bud](https://plato.stanford.edu/entries/belief-god/#Bud)                                                                                                               |
+
+*All links point to reputable, publicly accessible resources for further reading.*
+
