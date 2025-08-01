@@ -273,3 +273,59 @@ An **introductory philosophy survey** covering the major branches of the discipl
 9. “Bertrand Russell.” *Wikipedia*, [https://en.wikipedia.org/wiki/Bertrand\_Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
 10. “Allegory of the Cave.” *Wikipedia*, [https://en.wikipedia.org/wiki/Allegory\_of\_the\_cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
 11. “NASA.” *Wikipedia*, [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)
+
+
+# Course Road-Map: 11 Philosophical Problems
+
+*(from the Professor’s introductory video)*
+
+| #      | Central Question                          | Classic Image / Example                                            | Key Figures & Ideas                                                 |
+| ------ | ----------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **1**  | **Does God exist?**                       | Michelangelo’s *\[Creation of Adam]* on the Sistine Chapel ceiling | Ontological, cosmological & design arguments; the *problem of evil* |
+| **2**  | **What is knowledge?**                    | Rubens & Brueghel’s *\[Garden of Eden]* (Tree of Knowledge)        | Plato’s “JTB” analysis; value of knowledge vs. true belief          |
+| **3**  | **How do we know other minds?**           | The “*problem of other minds*”                                     | Behaviour vs. consciousness; *philosophical zombies*                |
+| **4**  | **Is the mind identical to the brain?**   | René Descartes’ mind–body dualism                                  | Materialism / physicalism vs. dualism                               |
+| **5**  | **Can consciousness be purely physical?** | Frank Jackson’s *\[Mary’s Room]* thought-experiment                | Qualia; the knowledge argument                                      |
+| **6**  | **What do we owe to others?**             | Peter Singer on radical charity (*\[Animal Liberation]*)           | Effective altruism; demandingness of morality                       |
+| **7**  | **Are moral truths objective?**           | “You ought to keep your promises.”                                 | Moral realism, relativism, divine-command theory                    |
+| **8**  | **Do we have free will?**                 | Aaron Hernandez case & CTE                                         | Determinism, compatibilism, moral responsibility                    |
+| **9**  | **Does justice require equality?**        | Wealth gap (e.g., Jeff Bezos)                                      | John Rawls vs. Robert Nozick                                        |
+| **10** | **What are race and gender?**             | 1911 *Webster’s* racial diagram                                    | Social vs. biological construction; K. Anthony Appiah               |
+| **11** | **Is reality as it appears?**             | *\[Curvature Blindness Illusion]*; Russell & Vasubandhu            | Skepticism; appearance-vs-reality distinctions                      |
+| **12** | **What is the meaning of life?**          | Douglas Adams’s “*42*” joke                                        | Existentialist vs. theistic answers                                 |
+
+> *Throughout the course we’ll confront unwelcome conclusions, practice respectful disagreement, and—echoing Bertrand Russell—“look only and surely at what are the facts.”*
+
+---
+
+## How to Engage Each Topic
+
+1. **Readings** – Primary sources supplied free on the course site.
+2. **Lecture Videos** – Context, analysis, and thought-experiments.
+3. **Problem Sets** – Short quizzes to test comprehension.
+4. **Discussion Forums** – Civil debate; apply Russell’s call for tolerance.
+
+---
+
+## References & External Links
+
+| #  | Link                                                                                                                                                   |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | [https://en.wikipedia.org/wiki/The\_Creation\_of\_Adam](https://en.wikipedia.org/wiki/The_Creation_of_Adam)                                            |
+| 2  | [https://en.wikipedia.org/wiki/The\_Garden\_of\_Eden\_with\_the\_Fall\_of\_Man](https://en.wikipedia.org/wiki/The_Garden_of_Eden_with_the_Fall_of_Man) |
+| 3  | [https://en.wikipedia.org/wiki/Problem\_of\_other\_minds](https://en.wikipedia.org/wiki/Problem_of_other_minds)                                        |
+| 4  | [https://en.wikipedia.org/wiki/Mind%E2%80%93body\_problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem)                                    |
+| 5  | [https://en.wikipedia.org/wiki/Mary%27s\_room](https://en.wikipedia.org/wiki/Mary%27s_room)                                                            |
+| 6  | [https://en.wikipedia.org/wiki/Peter\_Singer](https://en.wikipedia.org/wiki/Peter_Singer)                                                              |
+| 7  | [https://en.wikipedia.org/wiki/Divine\_command\_theory](https://en.wikipedia.org/wiki/Divine_command_theory)                                           |
+| 8  | [https://en.wikipedia.org/wiki/Free\_will](https://en.wikipedia.org/wiki/Free_will)                                                                    |
+| 9  | [https://en.wikipedia.org/wiki/John\_Rawls](https://en.wikipedia.org/wiki/John_Rawls)                                                                  |
+| 10 | [https://en.wikipedia.org/wiki/Robert\_Nozick](https://en.wikipedia.org/wiki/Robert_Nozick)                                                            |
+| 11 | [https://en.wikipedia.org/wiki/Race\_(human\_categorization)](https://en.wikipedia.org/wiki/Race_%28human_categorization%29)                           |
+| 12 | [https://en.wikipedia.org/wiki/Gender](https://en.wikipedia.org/wiki/Gender)                                                                           |
+| 13 | [https://en.wikipedia.org/wiki/Curvature\_blindness\_illusion](https://en.wikipedia.org/wiki/Curvature_blindness_illusion)                             |
+| 14 | [https://en.wikipedia.org/wiki/Bertrand\_Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)                                                      |
+| 15 | [https://en.wikipedia.org/wiki/Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)                                                                   |
+| 16 | [https://en.wikipedia.org/wiki/The\_Hitchhiker%27s\_Guide\_to\_the\_Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)      |
+
+*(All links point to publicly available, authoritative resources for further exploration.)*
