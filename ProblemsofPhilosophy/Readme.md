@@ -599,3 +599,36 @@ Stay tuned!
 
 *All links point to reputable, publicly accessible resources for further reading.*
 
+# Week-1 Forum Snapshot – Threads on “God, Faith & Religion”
+
+| # | Thread Title                                   | Core Question / Angle                                                                                                                          |
+| - | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | **Scientific Method to Prove God’s Existence** | Can *empirical* hypotheses and testable predictions ever confirm (or disconfirm) a deity?                                                      |
+| 2 | **Who is God?**                                | Is God a *subjective experience* or an *objective reality* that creates and rules the universe? (Berkeley-style idealism vs. substance views). |
+| 3 | **Knowing God**                                | If a higher power exists, *how* could we come to know it—reason, revelation, mystical experience?                                              |
+| 4 | **Faith and Religion**                         | Distinguishes **faithful** (belief-centred) from **religious** (practice-centred) lives.                                                       |
+| 5 | **Religion Is Not One-Dimensional**            | Notes that adherence to a tradition does **not** guarantee doctrinal assent—identity is complex.                                               |
+| 6 | **My Definition of God**                       | Proposes “the Mind that dreams reality” (pan-psychist or *ideal-monist* take).                                                                 |
+| 7 | **More Cumbersome than Anticipated**           | Realises the difficulty of deciding “who is right” about God once rival arguments are examined.                                                |
+| 8 | **In a Nutshell**                              | Claims ontology simply says *“All”* and then substitutes that totality with *“God.”*                                                           |
+| 9 | **Spirituality vs Religious**                  | Asks how to differentiate *being spiritual* from *being religious*—is long-term spirituality a gateway to religion?                            |
+
+> *NB: Only the thread titles and first-line previews are visible in the screenshot; the summaries above extrapolate each topic in compact form.*
+
+---
+
+## Selected Concepts & Further Reading
+
+| Concept / Figure              | Link                                                                                                                   |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Scientific Method             | [https://en.wikipedia.org/wiki/Scientific\_method](https://en.wikipedia.org/wiki/Scientific_method)                    |
+| Empiricism & God              | [https://plato.stanford.edu/entries/religion-science/](https://plato.stanford.edu/entries/religion-science/)           |
+| George Berkeley (Idealism)    | [https://en.wikipedia.org/wiki/George\_Berkeley](https://en.wikipedia.org/wiki/George_Berkeley)                        |
+| Epistemology of Religion      | [https://plato.stanford.edu/entries/epistemology-religion/](https://plato.stanford.edu/entries/epistemology-religion/) |
+| Faith vs. Religion            | [https://en.wikipedia.org/wiki/Faith](https://en.wikipedia.org/wiki/Faith)                                             |
+| Panpsychism                   | [https://en.wikipedia.org/wiki/Panpsychism](https://en.wikipedia.org/wiki/Panpsychism)                                 |
+| Ontology                      | [https://en.wikipedia.org/wiki/Ontology](https://en.wikipedia.org/wiki/Ontology)                                       |
+| Spirituality                  | [https://en.wikipedia.org/wiki/Spirituality](https://en.wikipedia.org/wiki/Spirituality)                               |
+| Religious Identity & Practice | [https://en.wikipedia.org/wiki/Religious\_identity](https://en.wikipedia.org/wiki/Religious_identity)                  |
+
+*These external links offer concise, authoritative introductions for anyone who’d like to probe the forum themes more deeply.*
